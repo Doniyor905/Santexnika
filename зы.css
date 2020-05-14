@@ -1,0 +1,35 @@
+body{
+	background: red;
+}
+.foto{
+	position: absolute;
+	font-size: 20px;
+	font-family: sans-serif;
+
+}
+.foto1{
+	display: flex;
+	
+
+}
+.foto1 p{
+	margin-bottom: 10px;
+	margin-left: 12px;
+}
+.foto1 img{
+	margin-top: 7px;
+	margin-left: 2px;
+}
+.foto2{
+	display: flex;
+}
+.foto3{
+	display: flex;
+}
+.foto3 img{
+	margin-top: 10px;
+	margin-left: 4px;
+}
+.foto3 p{
+	margin-left: 16px;
+}
